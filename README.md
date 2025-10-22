@@ -2,15 +2,13 @@
 
 This project is a web application that uses a pre-trained deep learning model (MobileNetV2) to classify images.
 
-**This project was built to demonstrate my skills for the Google Developer Group (GDG) at UTM.**
-
 ---
 
 ### ## 🔗 Live App Link
 
 You can try the live app here:
 
-**[https://ai-image-classifier-project.streamlit.app]**
+**https://ai-image-classifier-project.streamlit.app**
 
 ---
 
